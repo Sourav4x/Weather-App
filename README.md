@@ -4,7 +4,7 @@ A  web app built with React that lets users search for any city and view its rea
 
 ## 🌐 Live Demo
 
-[View Deployed App](https://your-app-url.vercel.app)
+[View Deployed App](https://weather-app-puce-theta-85.vercel.app/)
 
 ## 🔗 GitHub Repository
 
